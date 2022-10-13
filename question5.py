@@ -47,5 +47,3 @@ print(f'WORD 1: {content[index1]}')
 print(f'WORD 2: {content[index2]}')
 f.close()
 	
-	
-	
